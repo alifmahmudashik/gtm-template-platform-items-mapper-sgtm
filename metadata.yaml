@@ -1,4 +1,4 @@
 homepage: "https://alifmahmud.com"
-versions:
+versions: v1
   - sha: 67a85445eb3036d87d32d0674f37596fc97a1724
     changeNotes: Initial Publish.
