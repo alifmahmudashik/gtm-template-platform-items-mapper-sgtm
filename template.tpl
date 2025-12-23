@@ -15,6 +15,7 @@ ___INFO___
   "securityGroups": [],
   "displayName": "Platform Items Mapper (sGTM)",
   "description": "Map GA4 items to platform-specific arrays for dynamic remarketing: Google Ads (items), Meta/TikTok (contents), Pinterest (line_items), Snapchat (item_ids).",
+  "categories": ["ADVERTISING", "CONVERSIONS", "ANALYTICS"],
   "containerContexts": [
     "SERVER"
   ]
